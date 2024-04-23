@@ -1,0 +1,32 @@
+{
+  "id": "1be5799b-0694-455e-9f06-2a22c1725d53",
+  "name": "DBAs",
+  "publisher": "D365 BC Hub",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Track all DBAs (Assumed Names) for your Company in one place. Designed for US businesses.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./images/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 79990,
+      "to": 79999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
