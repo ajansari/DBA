@@ -3,5 +3,4 @@
 
 #As a general rule, it's a good idea to ignore the .vscode/ folder entirely or at least the launch.json file within it
 
-#Ignore the temp.txt file which is a placeholder for temporary code
-./temp.txt
+
