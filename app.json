@@ -1,8 +1,8 @@
 {
-  "id": "1be5799b-0694-455e-9f06-2a22c1725d53",
-  "name": "DBAs",
+  "id": "00e74a82-47db-4186-ae79-85b3aa726260",
+  "name": "DBA Tracker",
   "publisher": "D365 BC Hub",
-  "version": "1.0.0.2",
+  "version": "1.0.0.4",
   "brief": "",
   "description": "Track all DBAs (Assumed Names) for your Company in one place. Designed for US businesses.",
   "privacyStatement": "",
